@@ -137,7 +137,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For questions or collaboration opportunities:
 - GitHub: [@soorajsrajan97](https://github.com/soorajsrajan97)
-- University: Friedrich-Alexander-Universität Erlangen-Nürnberg
 - Focus: Battery Systems, Energy Storage, Python Data Analysis
 
 ## Acknowledgments
