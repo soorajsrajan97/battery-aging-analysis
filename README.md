@@ -140,6 +140,6 @@ For questions or collaboration opportunities:
 - Focus: Battery Systems, Energy Storage, Python Data Analysis
 
 ## Acknowledgments
-- Battery test data obtained from laboratory experiments
+- Battery test data sourced from [NASA Li-ion Battery Aging Dataset](https://www.nasa.gov/content/prognostics-center-of-excellence-data-set-repository)
 - Analysis techniques based on established electrochemical methods
 - Developed for research and educational purposes
