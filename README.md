@@ -1,4 +1,4 @@
-# Battery Aging Analysis
+# Battery Aging Analysis with power Bi
 
 ## Overview
 This project analyzes battery aging behavior through comprehensive data processing and visualization of battery cycle data. The analysis extracts voltage, current, and capacity metrics from experimental battery test data stored in MATLAB .mat format, enabling detailed performance degradation studies.
