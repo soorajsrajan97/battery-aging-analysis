@@ -32,6 +32,7 @@ battery-aging-analysis/
 │
 ├── Data/                          # Raw battery test data (.mat files)
 ├── BatteryAnalysis_main.ipynb     # Main Jupyter notebook for analysis
+├── Battery_visual.pdf             # Main Jupyter notebook for analysis
 ├── batteryData.py                 # Data processing and extraction module
 ├── batteryPlots.py                # Visualization module
 ├── mat2csv_all_cycles.mlx         # MATLAB script for data conversion
