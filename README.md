@@ -2,6 +2,7 @@
 
 ## Overview
 This project analyzes battery aging behavior through comprehensive data processing and visualization of battery cycle data. The analysis extracts voltage, current, and capacity metrics from experimental battery test data stored in MATLAB .mat format, enabling detailed performance degradation studies.
+Also including power bi dashboard for visualization.
 
 ## Project Objectives
 - Process and analyze battery cycle data from experimental testing
